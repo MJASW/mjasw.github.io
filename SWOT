@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>SWOT</h2>
+
+<table>
+  <tr>
+    <th>STRENGTH</th>
+    <th>WEAKNESS</th>
+
+  </tr>
+  <tr>
+    <td>Good proximity to city centre and other up and coming area</td>
+     <td>The ward is the most deprived of all wards in Manchester LA and ranks in the top 1% of deprived areas in the IMD</td>
+     
+     </tr>
+  <tr>
+    <td>The site has good access to the bus network</td>
+     <td>Poor GCSE achievement, high unemployment rate, and many work in low skilled occupations <td>
+    
+  </tr>
+  <tr>
+    <td>25% of housing units are socially rented</td>
+     <td>Domestic and non-domestic energy consumption has decreased onsite at a slower rate than Manchester’s average <td>
+  
+     </tr>
+  <tr>
+    <td>The Energy efficiency of housing on site is high (especially towards Ancoats/New Islington</td>
+    <td>Fuel poverty increases towards Newton Heath</td>
+    
+     </tr>
+  <tr>
+    <td> Ultra high speed internet availability and high number of e-professionals</td>
+     <td> Lack of green network connecting the green infrastructure </td>
+    
+    </tr>
+  <tr>
+    <td> Cheaper average house prices than the immediate surroundings</td>
+   <td>Lack of easy access to existing farmlands</td>
+   
+     </tr>
+  <tr>
+    <td>  Vast historic and heritage value from industrialisation periods</td>
+    <td>  The site is mostly residential with little mixed-use development</td>
+    
+   
+   </tr>
+  <tr>
+    <td> Existing good quality green infrastructure, accessible by pedestrians</td>
+     <td> Most houses heated by gas</td>
+   
+     </tr>
+  <tr>
+    <td>Overall, good access to hospitals, doctors surgeries, primary schools and religious institutions</td>
+     <td>Few electric vehicle charging points </td>
+    
+     </tr>
+  <tr>
+    <td> The Sportcity is regarded as important by the council and the neighbourhood has been designated as a major ‘Recreational Route’</td>
+    <td>Lack of amateur sporting facilities, one public library with limited resources</td>
+    
+    
+     </tr>
+  <tr>
+    <td> </td>
+    <td>The site lacks tram network coverage</td>
+    
+  </tr>
+  <tr>
+    <td> </td>
+    <td>At the edge of the site, there is a demand for more GPs, dentists and pharmacies</td>
+
+  
+    <tr>
+    <th>OPPURTUNITIES</th>
+    <th>THREATS</th>
+    
+    </tr>
+  <tr>
+    <td>Brownfield land and unused buildings are opportunities for development.</td>
+     <td>Educational attainment and proficiency in English are a barrier to  quality employment</td>
+     
+     </tr>
+  <tr>
+    <td>TThe area is favourable for mixed-use development</td>
+     <td>New developments aimed at affluent buyers could result in gentrification and threaten existing social cohesion and sense of community<td>
+    
+  </tr>
+  <tr>
+    <td>The Co-op Live Arena is currently being constructed on site and will host an innovative heat network</td>
+     <td>If the rate of energy consumption continues to reduce more slowly than the rest of the city, this may be problematic for Manchester’s zero carbon goals <td>
+  
+     </tr>
+  <tr>
+    <td>Existing high quality green infrastructure could be enhanced by creating green networks and combining urban farms, and the Medlock river valley is a “green infrastructure opportunity area”</td>
+    <td>Flooding is a challenge in the Medlock valley and the Irk valley</td>
+    
+     </tr>
+  <tr>
+    <td>An opportunity to help the city achieve its net zero goals by focussing on sustainable transport networks</td>
+     <td>Fear of unsafe environment as a barrier to access green spaces </td>
+    
+    </tr>
+  <tr>
+    <td>A number of existing proposals to improve public transport, green infrastructure, and leisure facilities in the area, which may improve attractiveness of the site</td>
+   <td>Affluent residents prefer cars as their main mode of transport which may threaten sustainable transport goals</td>
+   
+     </tr>
+  <tr>
+    <td>Scope to increase educational attainment and new business opportunities </td>
+    <td>There are only 2 police stations located relatively far away from the site - this could increase response time and increase crime rates</td>
+    
+    
+</table>
+
+</body>
+</html>
